@@ -1,0 +1,8 @@
+bower に登録
+
+bower register asevent git://github.com/package/path.git
+bower register ponclock git://github.com/chitose87/Clock_ts.git
+bower register ponmodule git://github.com/chitose87/PonModule_ts.git
+
+
+gitにタグを付ける必要がある　v0.0.0の書式
